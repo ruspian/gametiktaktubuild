@@ -1,0 +1,1 @@
+*{box-sizing:border-box}body{font-family:sans-serif;margin:20px;padding:0}.kotak{width:35px;height:35px;border:1px solid gold;background-color:#009800;font-size:1.2rem;font-weight:700;cursor:pointer}.papan{display:flex;flex-wrap:wrap;width:105px;height:105px}.status{margin-bottom:10px}.game{display:flex}
